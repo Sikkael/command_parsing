@@ -1,0 +1,6 @@
+*.txt
+.idea/
+Data/
+log/
+venv/
+*known_hosts*
