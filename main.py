@@ -7,4 +7,4 @@ if __name__ == "__main__":
     com_parser = CommandsParser(argv)
     sec = SecureStorage(com_parser)
     sec.action()
-# migration
+# migration vers nouvelle installation windows sur ordinateur de bureau Dell
